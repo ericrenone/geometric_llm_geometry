@@ -15,8 +15,3 @@ Single-file script that:
 - Embeds a semantic hierarchy into hyperbolic space  
 - Constructs a distance-induced graph with curvature proxy  
 - Aligns perturbed copies of the embeddings via Wasserstein barycenter  
-
-### Requirements
-
-```bash
-pip install torch geoopt POT networkx matplotlib numpy
