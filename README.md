@@ -8,7 +8,7 @@ This repository examines geometric properties of token and attention representat
 
 All computations are performed in the Poincaré ball model.
 
-# Single-file script that:
+**Single-file script that:
 
 - Embeds a semantic hierarchy into hyperbolic space  
 - Constructs a distance-induced graph with curvature proxy  
