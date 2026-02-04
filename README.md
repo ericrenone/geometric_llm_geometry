@@ -1,6 +1,6 @@
 # Geometric Structure in Language Model Representations
 
-This repository examines geometric properties of token and attention representations in large language models through three complementary perspectives:
+Examines geometric properties of token and attention representations in large language models through three complementary perspectives:
 
 - Hyperbolic embedding of semantic hierarchies  
 - Curvature-aware graph structure induced by distances  
