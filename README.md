@@ -1,4 +1,6 @@
-# Geometric Structure in Language Model Representations
+# Geometric LLM: Hyperbolic Manifold Representations
+
+A high-fidelity simulation of Geometric Deep Learning concepts applied to Language Model (LLM) structures. This project visualizes how semantic hierarchies and attention-based relationships are more naturally represented in non-Euclidean space—specifically the Poincaré Ball.
 
 Examines geometric properties of token and attention representations in large language models through three complementary perspectives:
 
